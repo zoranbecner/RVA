@@ -13,7 +13,6 @@ const Routes = [
   { path: 'status', component: StatusComponent },
   { path: 'fakultet', component: FakultetComponent },
   { path: 'departman', component: DepartmanComponent },
-  { path: 'student', component: StudentComponent },
   { path: 'home', component: HomeComponent },
   { path: 'about', component: AboutComponent },
   { path: 'author', component: AuthorComponent },
